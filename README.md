@@ -1,6 +1,6 @@
-# CPM - Manager
+# front-vue
 
-This is a management applicaiton based on the Critical Path Method (CPM). Its main objective is to identify critical tasks, visualize acticity dependencies, and optimize exeecution time.
+This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
